@@ -72,7 +72,7 @@ This is top 50
 | 50 | [THANK YOU NCT 127](http://twitter.com/search?q=THANK+YOU+NCT+127) | "THANK YOU NCT 127" is an expression of gratitude and appreciation for the South Korean boy band NCT 127. In English, it means "Thank you, NCT 127". |
 
 
-- [Greece](Greece/README.md)\n
+- [Greece](Greece)
 
 ## 📝 NOTES
 
